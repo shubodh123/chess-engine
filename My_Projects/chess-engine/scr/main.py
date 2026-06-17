@@ -147,7 +147,7 @@ from search import get_best_move
 from gui import ChessGUI
 from coach import ChessCoach
 
-API_KEY = "AQ.Ab8RN6KZHf-B8GhY1PDtWOM9zFFw3O-ECHNuzoCA60QcAY6r-Q"
+API_KEY = "YOUR API-KEY"
 
 
 def main():
